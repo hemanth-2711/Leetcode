@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/hemanth-2711/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanth-2711/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanth-2711/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemanth-2711/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
