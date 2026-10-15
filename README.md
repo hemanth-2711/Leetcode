@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemanth-2711/Leetcode/tree/master/0049-group-anagrams) |
 | [0572-subtree-of-another-tree](https://github.com/hemanth-2711/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemanth-2711/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/hemanth-2711/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemanth-2711/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/hemanth-2711/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -73,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemanth-2711/Leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/hemanth-2711/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
